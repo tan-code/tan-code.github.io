@@ -1,8 +1,6 @@
-## 欢迎到此，这个页面计划是用于作为更好的域名访问。由于某限制，非web不能使用80端口，因此，使用本git页面，跨域到花生壳地址做前后端交互。以获得更好的浏览体验
+## 欢迎到此
 
-You can use the [editor on GitHub](https://github.com/tanweijie-nodeJS/publicX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这个页面计划是用于作为更好的域名访问。由于某限制，非web不能使用80端口，因此，使用本git页面，跨域到花生壳地址做前后端交互。以获得更好的浏览体验
 
 ### Markdown
 
