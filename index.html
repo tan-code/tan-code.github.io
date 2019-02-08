@@ -38,7 +38,7 @@
 
     <!-- Swiper JS -->
     <script src="./public/swiper.min.js"></script>
-
+    <script src="./public/simJQ-2.2.min.js"></script>
     <!-- Initialize Swiper -->
     <script>
     	//swiper初始化
@@ -64,6 +64,21 @@
 			},1000)
 		},1000)
 	},1000)
+</script>
+<script type="text/javascript">
+	//测试异步请求
+	$.ajax({
+		url: 'http://node-js.51vip.biz:54598',
+		type: 'POST',
+		dataType: 'json',
+		data:{name:1},
+		success: function (data, status) {
+			console.log(data)
+		},
+		fail: function (err, status) {
+
+		}
+	})
 </script>
 </body>
 </html>
